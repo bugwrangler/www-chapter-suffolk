@@ -20,7 +20,7 @@ us with space for OWASP Suffolk chapter events
 
 <td>
 
-![UOS-IWIC-logo-RGB.jpg](UOS-IWIC-logo-RGB.jpg "UOS-IWIC-logo-RGB.jpg")
+![UOS-IWIC-logo-RGB.jpg]( assets/images/UOS-IWIC-logo-RGB.jpg "UOS-IWIC-logo-RGB.jpg")
 
 </td>
 
