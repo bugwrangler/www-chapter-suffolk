@@ -246,7 +246,7 @@ Ipswich IP4 1QJ
 <!-- end list -->
 
   - **Data Protection Act 2018 - Rebecca Moran** \[
-    [](Media:Owaspsuffolk-20190423.pdf "wikilink")[PDF](https://www.slideshare.net/owaspsuffolk/data-protection-within-development)
+    [](/www-pdf-archive/Owaspsuffolk-20190423.pdf )[PDF](https://www.slideshare.net/owaspsuffolk/data-protection-within-development)
     \] \[ [Video](https://www.youtube.com/watch?v=8l39NhDwJe4) \]
 
 <!-- end list -->
@@ -280,7 +280,7 @@ Ipswich IP4 1QJ
 
   - *' Understanding how to prevent Sensitive Data Exposure - Simon
     Greatrix \[
-    [](Media:Owaspsuffollk-20190319.pdf "wikilink")[PDF](https://www.slideshare.net/owaspsuffolk/understanding-how-to-prevent-sensitive-data-exposure)
+    [](/www-pdf-archive/Owaspsuffollk-20190319.pdf )[PDF](https://www.slideshare.net/owaspsuffolk/understanding-how-to-prevent-sensitive-data-exposure)
     \] \[ [Video](https://www.youtube.com/watch?v=Z1nNq3wt7Bg) \]*'
 
 <!-- end list -->
@@ -348,5 +348,5 @@ title, abstract and your bio via e-mail:
 
 Everyone is welcome to join us at our chapter meetings.
 
-[Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
-[Category:Europe](Category:Europe "wikilink")
+[Category:OWASP Chapter](Category:OWASP_Chapter )
+[Category:Europe](Category:Europe )
