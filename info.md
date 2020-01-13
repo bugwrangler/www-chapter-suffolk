@@ -2,7 +2,7 @@
  
 * [Join Our Mailing List](https://groups.google.com/a/owasp.org/forum/#!forum/suffolk-chapter)
 
-* [MeetUp](https://www.meetup.com/en-AU/OWASP-Suffolk-Chapter/)
+* [MeetUp](https://www.meetup.com/OWASP-Suffolk-Chapter/)
 
 * [Youtube](https://www.youtube.com/channel/UCGU_bGraZZZc37pQytdaH6w)
  

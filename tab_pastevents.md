@@ -1,77 +1,43 @@
 ---
-
-layout: col-sidebar
+title: PastEvents
+displaytext: Past Events
+layout: null
 title: OWASP Suffolk
-tags: example-tag
-level: 0
+tags: suffolk
+order: 2
 
-region: Europe
-
-
----
-## Meeting Sponsors
-
-The following is the list of organisations who have generously provided
-us with space for OWASP Suffolk chapter events
-
-<table cellpadding="15" cellspacing="0">
-
-<tr>
-
-<td>
-
-![UOS-IWIC-logo-RGB.jpg]( assets/images/UOS-IWIC-logo-RGB.jpg "UOS-IWIC-logo-RGB.jpg")
-
-</td>
-
-<td>
-
-![OCCAMSEC_logo.jpg](OCCAMSEC_logo.jpg "OCCAMSEC_logo.jpg")
-
-</td>
-
-</tr>
-
-</table>
-
-## Next Meeting/Event(s)
-
-### \[ December 2019 (Ipswich)\]
-
-Location:   University of Suffolk, Waterfront Building, 19 Neptune Quay,
-Ipswich IP4 1QJ
-
-#### TALKS:
-
-  - TBA
-
+ 
 ## Past Meeting/Event(s)
+
+### [Monday, 16 December 2019 (Ipswich)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/267062676/)
+
+Location: The Briarbank Bar
+
+#### Agenda:
+  - **Secure Beer tasting.**
+    
+    We will enjoy beer, socialise and discuss various aspects of InfoSec.
+    Additionally, we will also summarise what we achieved this year and set up goals for next year.
+  
+ 
 
 ### [4 November 2019 (Ipswich)](https://www.meetup.com/OWASP-Suffolk-Chapter/events/265681990/)
 
 Location:   University of Suffolk, Waterfront Building, 19 Neptune Quay,
 Ipswich IP4 1QJ
 
-#### TALKS:
+#### Agenda:
 
   - **OWASP Suffolk Introduction, Welcome and News - WTC**
 
-<!-- end list -->
-
-  -
     Welcome and an update on OWASP Projects & Events from the OWASP
     Suffolk Chapter Leader.
-
-<!-- end list -->
-
+ 
   - **Practical Threat Analysis – Martin Russ** \[
     [Slides](https://www.slideshare.net/owaspsuffolk/practical-threat-analysis-martin-russ)
     \]\[ [Video](https://www.youtube.com/watch?v=-lI4ZJom3u0) \]
-
-<!-- end list -->
-
-  -
-    Martin Russ shows you how to actually do Threat Analysis using a
+ 
+     Martin Russ shows you how to actually do Threat Analysis using a
     simple spreadsheet as a guide. The key to successful threat analysis
     and modelling is to have a clear idea of how to get to the
     end-point, and not to get overwhelmed with how you are going to get
@@ -100,26 +66,18 @@ Ipswich IP4 1QJ
 Location:   University of Suffolk, Waterfront Building, 19 Neptune Quay,
 Ipswich IP4 1QJ
 
-#### TALKS:
+#### Agenda:
 
   - **OWASP Suffolk Introduction, Welcome and News - WTC**
-
-<!-- end list -->
-
-  -
+ 
     Welcome and an update on OWASP Projects & Events from the OWASP
     Suffolk Chapter Leader.
-
-<!-- end list -->
-
+ 
   - **What could possibly go wrong? Threat modelling in the 21st
     century. – Phil Ashby** \[
     [Slides](https://www.slideshare.net/owaspsuffolk/what-could-possibly-go-wrong-threat-modelling-in-the-21st-century-phil-ashby)
     \]\[ [Video](https://www.youtube.com/watch?v=0HgYZEJXAJo) \]
-
-<!-- end list -->
-
-  -
+ 
     Introduction to threat modeling what it is, why is needed and how to
     do it right. Why and how threat modeling should evolve to be ready
     for 21st century threats. We will discuss potential threats in each
@@ -137,25 +95,17 @@ Ipswich IP4 1QJ
 Location:   University of Suffolk, Waterfront Building, 19 Neptune Quay,
 Ipswich IP4 1QJ
 
-#### TALKS:
+#### Agenda:
 
   - **OWASP Suffolk Introduction, Welcome and News - WTC**
-
-<!-- end list -->
-
-  -
+ 
     Welcome and an update on OWASP Projects & Events from the OWASP
     Suffolk Chapter Leader.
-
-<!-- end list -->
-
+ 
   - **Your only as strong as your weakest link – Edward Ogden** \[
     [Slides](https://www.slideshare.net/owaspsuffolk/your-only-as-strong-as-your-weakest-link-edward-ogden/owaspsuffolk/your-only-as-strong-as-your-weakest-link-edward-ogden)
     \] \[ [Video](https://www.youtube.com/watch?v=2sHn_PEFF0o&t=867s) \]
-
-<!-- end list -->
-
-  -
+ 
     Servers are the root of all web apps and sites, it’s the central
     point that your clients/customers will connect to and where you put
     your code.
@@ -170,10 +120,7 @@ Ipswich IP4 1QJ
 <!-- end list -->
 
   - **Discussion about future of OWASP Suffolk**
-
-<!-- end list -->
-
-  -
+ 
     We will have open discussion about what we are doing, and what YOU
     expecting us to do.
 
@@ -192,23 +139,17 @@ Ipswich IP4 1QJ
 Location:   University of Suffolk, Waterfront Building, 19 Neptune Quay,
 Ipswich IP4 1QJ
 
-#### TALKS:
+#### Agenda:
 
   - **OWASP Suffolk Introduction, Welcome and News - WTC**
-
-<!-- end list -->
-
-  -
+ 
     Welcome and an update on OWASP Projects & Events from the OWASP
     Suffolk Chapter Leader.
 
 <!-- end list -->
 
   - **Windows Active Directory Security Lowlights - Barry Myles**
-
-<!-- end list -->
-
-  -
+ 
     Once an attacker is inside your organisation they very often will
     misuse Windows Active Directory for almost total compromise of every
     aspect of an organisation's computing infrastructure and the data it
@@ -233,13 +174,10 @@ Ipswich IP4 1QJ
 Location:   University of Suffolk, Waterfront Building, 19 Neptune Quay,
 Ipswich IP4 1QJ
 
-#### TALKS:
+#### Agenda:
 
   - **OWASP Suffolk Introduction, Welcome and News - WTC**
-
-<!-- end list -->
-
-  -
+ 
     Welcome and an update on OWASP Projects & Events from the OWASP
     Suffolk Chapter Leader.
 
@@ -248,10 +186,7 @@ Ipswich IP4 1QJ
   - **Data Protection Act 2018 - Rebecca Moran** \[
     [](Media:Owaspsuffolk-20190423.pdf "wikilink")[PDF](https://www.slideshare.net/owaspsuffolk/data-protection-within-development)
     \] \[ [Video](https://www.youtube.com/watch?v=8l39NhDwJe4) \]
-
-<!-- end list -->
-
-  -
+ 
     An overview of the requirements of the new Data Protection Act 2018
     (GDPR) and it’s influence in development and project management.
 
@@ -266,26 +201,20 @@ Ipswich IP4 1QJ
 Location:   University of Suffolk, Waterfront Building, 19 Neptune Quay,
 Ipswich IP4 1QJ
 
-#### TALKS:
+#### Agenda:
 
   - **OWASP Suffolk Introduction, Welcome and News - WTC**
-
-<!-- end list -->
-
-  -
+ 
     Welcome and an update on OWASP Projects & Events from the OWASP
     Suffolk Chapter Leader.
 
 <!-- end list -->
 
-  - *' Understanding how to prevent Sensitive Data Exposure - Simon
+  - **Understanding how to prevent Sensitive Data Exposure - Simon
     Greatrix \[
     [](Media:Owaspsuffollk-20190319.pdf "wikilink")[PDF](https://www.slideshare.net/owaspsuffolk/understanding-how-to-prevent-sensitive-data-exposure)
-    \] \[ [Video](https://www.youtube.com/watch?v=Z1nNq3wt7Bg) \]*'
-
-<!-- end list -->
-
-  -
+    \] \[ [Video](https://www.youtube.com/watch?v=Z1nNq3wt7Bg) \]**
+ 
     Sensitive data is often the target of any attack, and its exposure
     has the greatest risk of long-term damage. OWASP and the PCI DSS
     provide many recommendations. The internet provides even more. These
@@ -304,7 +233,7 @@ Ipswich IP4 1QJ
 
 Location:  Connexions, 159 Princess Street, Ipswich
 
-#### TALKS:
+#### Agenda:
 
   - **OWASP Suffolk Introduction, Welcome and News - WTC**
 
@@ -317,36 +246,9 @@ Location:  Connexions, 159 Princess Street, Ipswich
 <!-- end list -->
 
   - **Yet another talk on OWASP Top 10 - WTC \[PDF\]**
-
-<!-- end list -->
-
-  -
+ 
     Brief overview of OWASP Top 10.
 
-#### TICKETS:
+ 
 
-This event is free to attend for both members and non-members of OWASP
-and is open to anyone interested in application security and cyber
-security. Please note that you MUST RSVP to book your place and get a
-ticket to be admitted to the event by building security - your name will
-be checked against the guest list. Register to attend this event
-at OWASP Suffolk Chapter -
-[Meetup](https://www.meetup.com/OWASP-Suffolk-Chapter/) - RSVP to attend
-
-## Local News
-
-We reopened the chapter, and currently we are looking for venue and
-speakers.
-
-If you have would like to present a talk on Application Security at any
-incoming OWASP Suffolk Chapter events, please send us the proposed talk
-title, abstract and your bio via e-mail:
-
-`wojciech.cichon@owasp.org `
-
-`abhinav.sejpal@owasp.org`
-
-Everyone is welcome to join us at our chapter meetings.
-
-[Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
-[Category:Europe](Category:Europe "wikilink")
+ 
