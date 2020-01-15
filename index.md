@@ -32,7 +32,7 @@ The following is the list of organisations who supported OWASP Suffolk chapter b
 
 <td>
 
-!["UOS IWIC](/assets/images/400px-UOS-IWIC-logo-RGB.jpg)
+![UOS IWIC](../assets/images/400px-UOS-IWIC-logo-RGB.jpg)
 
 </td>
 
