@@ -6,8 +6,6 @@ site_side: true
 tags: suffolk
 region: Europe
 currency: gbp
-auto-migrated: 1
-
 ---
 
  
