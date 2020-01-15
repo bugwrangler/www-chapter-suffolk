@@ -4,7 +4,6 @@ layout: col-sidebar
 title: OWASP Suffolk
 site_side: true
 tags: suffolk
-level: 3
 region: Europe
 currency: gbp
 
@@ -33,13 +32,12 @@ The following is the list of organisations who supported OWASP Suffolk chapter b
 
 <td>
 
-![400px-UOS-IWIC-logo-RGB.jpg]( assets/images/400px-UOS-IWIC-logo-RGB.jpg "UOS-IWIC")
+!["UOS IWIC](/assets/images/400px-UOS-IWIC-logo-RGB.jpg)
 
 </td>
 
 <td>
-
-![OCCAMSEC_logo.jpg](assets/images/800px-OCCAMSEC_logo.jpg "OCCAMSEC")
+![OCCAMSEC Logo](/assets/images/800px-OCCAMSEC_logo.jpg)
 
 </td>
 
