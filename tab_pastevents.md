@@ -1,4 +1,5 @@
 ---
+
 title: pastevents
 displaytext: Past Events
 layout: null
@@ -7,6 +8,7 @@ tags: suffolk
 order: 2
 tab: true
 
+---
  
 ## Past Meeting/Event(s)
 
