@@ -33,13 +33,13 @@ The following is the list of organisations who supported OWASP Suffolk chapter b
 
 <td>
 
-![UOS-IWIC-logo-RGB.jpg]( assets/images/UOS-IWIC-logo-RGB.jpg "UOS-IWIC-logo-RGB.jpg")
+![400px-UOS-IWIC-logo-RGB.jpg]( assets/images/400px-UOS-IWIC-logo-RGB.jpg "UOS-IWIC")
 
 </td>
 
 <td>
 
-![OCCAMSEC_logo.jpg](OCCAMSEC_logo.jpg "OCCAMSEC_logo.jpg")
+![OCCAMSEC_logo.jpg](assets/images/800px-OCCAMSEC_logo.jpg "OCCAMSEC")
 
 </td>
 
