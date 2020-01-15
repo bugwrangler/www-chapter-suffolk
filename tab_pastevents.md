@@ -3,10 +3,10 @@
 title: pastevents
 displaytext: Past Events
 layout: null
-title: OWASP Suffolk
+tab: true
 tags: suffolk
 order: 2
-tab: true
+ 
 
 ---
  
