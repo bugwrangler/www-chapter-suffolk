@@ -5,6 +5,7 @@ layout: null
 title: OWASP Suffolk
 tags: suffolk
 order: 2
+tab: true
 
  
 ## Past Meeting/Event(s)
