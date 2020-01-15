@@ -211,10 +211,9 @@ Ipswich IP4 1QJ
 <!-- end list -->
 
   - **Understanding how to prevent Sensitive Data Exposure - Simon
-    Greatrix \[
- 
+    Greatrix** \[
     [](/www-pdf-archive/Owaspsuffollk-20190319.pdf )[PDF](https://www.slideshare.net/owaspsuffolk/understanding-how-to-prevent-sensitive-data-exposure)
-    \] \[ [Video](https://www.youtube.com/watch?v=Z1nNq3wt7Bg) \]*'
+    \] \[ [Video](https://www.youtube.com/watch?v=Z1nNq3wt7Bg) \]
 
  
     Sensitive data is often the target of any attack, and its exposure
