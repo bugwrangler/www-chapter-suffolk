@@ -6,6 +6,7 @@
 
 * [Youtube](https://www.youtube.com/channel/UCGU_bGraZZZc37pQytdaH6w)
  
+* [Twitter](https://twitter.com/owaspsuffolk)
  
 
 ### Become speaker
