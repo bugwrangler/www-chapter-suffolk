@@ -58,7 +58,7 @@ Will be announced soon
 ``` 
 
 
- #### TICKETS:
+ **TICKETS**:
  
  All our events are free to attend for both members and non-members of OWASP
  and is open to anyone interested in application security and cyber
