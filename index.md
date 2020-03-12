@@ -52,11 +52,30 @@ speaker bio to one of the Chapter Leader
 
 ## Next Meeting/Event(s)
 
-```$xslt
-Will be announced soon
+##### OWASP Suffolk Chapter - March Meetup #####
 
-``` 
+Date : Tue, Mar 17 · 7:00 PM
+Venue : Neptune Quay,IP4 1QJ, Ipswich
 
+ * OWASP Suffolk Introduction, Welcome and News - WTC
+
+ Welcome and an update on OWASP Projects & Events from the OWASP Suffolk Chapter Leader.
+
+ *  Security Testing for all - David Flint
+
+**Abstract :**
+
+Security testing isn’t just for the professional penetration tester hired to check the software before go-live. Everyone in the SDLC can take part in security. In this talk David Flint discusses the benefits of building security into the SDLC and how you can acquire security testing skills for free in a fun way avoiding the need for expensive courses and qualifications. Packed with examples from his career this talk will also show how these skills should be a part of everyone’s skillset.
+
+**Short break for networking**
+
+
+
+* Using Security Incidents to drive business transformation/execution -Dinis Cruz, Luke Robbertse, Matthew Cavey
+
+**Abstract :** 
+
+Walking you through how we've taken advantage of a security incident to drive important transformation in our business. Taking inspiration from Wardley Maps, Team Topologies, PSTs, Squads we embrace an incident as a driving force for improved process, protocols, communication and general use of our technology stack. Through effective incident management and the linking of all related data in a graph (jira), we better the management of our everyday workflows.
 
  **TICKETS**:
  
@@ -68,7 +87,6 @@ Will be announced soon
  at OWASP Suffolk Chapter -
  [Meetup](https://www.meetup.com/OWASP-Suffolk-Chapter/) - RSVP to attend
  
-
  ----
  
  
