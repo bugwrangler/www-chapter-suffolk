@@ -54,28 +54,24 @@ speaker bio to one of the Chapter Leader
 
 ##### OWASP Suffolk Chapter - March Meetup #####
 
-Date : Tue, Mar 17 · 7:00 PM
-Venue : Neptune Quay,IP4 1QJ, Ipswich
+Date : Wednesday, March 25, 2020, 7:00 PM to 7:15 PM
+
+Venue : Remote (Before the meetup will start, We will email link to everyone whoever registred)
 
  * OWASP Suffolk Introduction, Welcome and News - WTC
 
- Welcome and an update on OWASP Projects & Events from the OWASP Suffolk Chapter Leader.
+Welcome and an update on OWASP Projects & Events from the OWASP Suffolk Chapter Leader.
 
- *  Security Testing for all - David Flint
+ *  how to prevent Dev from committing secrets and credentials into git repositories by Abhinav Sejpal
 
-**Abstract :**
+Abstract: Sensitive information such as the AWS keys, access tokens, SSH keys etc. are often erroneously leaked via the public source code repositories due to accidental git commits. This can be avoided by using pre-commit hooks like “Talisman” which checks for sensitive information in the files before commits or push activity.
 
-Security testing isn’t just for the professional penetration tester hired to check the software before go-live. Everyone in the SDLC can take part in security. In this talk David Flint discusses the benefits of building security into the SDLC and how you can acquire security testing skills for free in a fun way avoiding the need for expensive courses and qualifications. Packed with examples from his career this talk will also show how these skills should be a part of everyone’s skillset.
+Speaker Social Info :
 
-**Short break for networking**
+Website : https://www.bugwrangler.in/ 
 
+Twitter : https://twitter.com/AbhinavSejpal 
 
-
-* Using Security Incidents to drive business transformation/execution -Dinis Cruz, Luke Robbertse, Matthew Cavey
-
-**Abstract :** 
-
-Walking you through how we've taken advantage of a security incident to drive important transformation in our business. Taking inspiration from Wardley Maps, Team Topologies, PSTs, Squads we embrace an incident as a driving force for improved process, protocols, communication and general use of our technology stack. Through effective incident management and the linking of all related data in a graph (jira), we better the management of our everyday workflows.
 
  **TICKETS**:
  
@@ -88,8 +84,6 @@ Walking you through how we've taken advantage of a security incident to drive im
  [Meetup](https://www.meetup.com/OWASP-Suffolk-Chapter/) - RSVP to attend
  
  ----
- 
- 
 
 **Code of Conduct**:
 
