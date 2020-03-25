@@ -66,6 +66,8 @@ Welcome and an update on OWASP Projects & Events from the OWASP Suffolk Chapter 
 
 Abstract: Sensitive information such as the AWS keys, access tokens, SSH keys etc. are often erroneously leaked via the public source code repositories due to accidental git commits. This can be avoided by using pre-commit hooks like “Talisman” which checks for sensitive information in the files before commits or push activity.
 
+Presentation : https://slides.com/abhinavsejpal/git-secrets-pre-hook/ 
+
 Speaker Social Info :
 
 Website : https://www.bugwrangler.in/ 
