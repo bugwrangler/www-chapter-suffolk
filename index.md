@@ -54,26 +54,31 @@ speaker bio to one of the Chapter Leader
 
 ##### OWASP Suffolk Chapter - March Meetup #####
 
-Date : Wednesday, March 25, 2020, 7:00 PM to 7:15 PM
+Date : Wednesday, April 24, 2020, 7:00 PM to 9:00 PM
 
-Venue : Remote (Before the meetup will start, We will email link to everyone whoever registred)
+Venue : Remote
 
- * OWASP Suffolk Introduction, Welcome and News - WTC
+TALKS:
+
+* OWASP Suffolk Introduction, Welcome and News - WTC
 
 Welcome and an update on OWASP Projects & Events from the OWASP Suffolk Chapter Leader.
 
- *  how to prevent Dev from committing secrets and credentials into git repositories by Abhinav Sejpal
 
-Abstract: Sensitive information such as the AWS keys, access tokens, SSH keys etc. are often erroneously leaked via the public source code repositories due to accidental git commits. This can be avoided by using pre-commit hooks like “Talisman” which checks for sensitive information in the files before commits or push activity.
+* Living In A World of Zero Trust - Vandana Verma
 
-Presentation : https://slides.com/abhinavsejpal/git-secrets-pre-hook/ 
 
-Speaker Social Info :
+As now everything is moving to cloud, all the applications are accessible from anywhere and everywhere. However, No one wants their private information to be compromised and openly available for the world. We have been taking so many precautions, however breaches continue to happen. How should we fix this?
 
-Website : https://www.bugwrangler.in/ 
 
-Twitter : https://twitter.com/AbhinavSejpal 
+Presentation : https://meet.jit.si/OWASPSuffolk
 
+Organisations have been talking about Zero Trust lately and this has become a buzzword. The talk will explore Zero Trust beyond the buzzword and describe what exactly is Zero Trust and why it is so important to keep organisations safe. How can we implement or deploy Zero Trust in an organisation while keeping the current and future state of an organization in mind. What should be the business model to move any organisation towards Zero Trust Architecture and what all policies need to be implemented to achieve the same.
+
+About the speaker:
+Vandana has over 14 years of experience and comes from strong application security background and has been working on Cloud Security, Application security, Vulnerability assessment, secure code review, threat profiling and remediation support for web/client server applications on different technologies based on Secure Design/Development guidelines and OWASP standards/guidelines.
+
+Vandana has been a speaker and trainer at security events including Blackhat USA 2019, BSides LV 2019, Diana Initiative, Defcon (AppSec Village), AppSec California 2019, Global Appsec EU 2018, Global Appsec USA 2018, Global AppSec Tel Aviv, BSides Delhi 2018, c0c0n 2017 and Nullcon etc. She has trained over 3000+ Women in cybersecurity.
 
  **TICKETS**:
  
